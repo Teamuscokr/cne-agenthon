@@ -1,5 +1,6 @@
 name: 기능 요청
 description: 필요한 기능과 완료 조건을 쉬운 말로 적어 주세요.
+labels: ["기능추가"]
 body:
   - type: markdown
     attributes:
