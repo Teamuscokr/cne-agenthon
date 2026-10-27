@@ -1,5 +1,6 @@
 name: 버그 신고
 description: 문제가 생기는 순서와 기대한 결과를 적어 주세요.
+labels: ["버그"]
 body:
   - type: markdown
     attributes:
